@@ -34,6 +34,17 @@ I believe in learning by building, improving through consistency, and turning id
 - Full-Stack Development
 - Data Structures and Algorithms
 
+- 
+## 💻 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+
 ---
 
 ## 📚 Current Learning Goals
@@ -52,6 +63,14 @@ I believe in learning by building, improving through consistency, and turning id
 - Participated in hackathon-based project development.
 - Interested in competitive programming and technology.
 - Continuously working on improving technical skills.
+
+- 
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MANIDEEP-RNP&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MANIDEEP-RNP&layout=compact&theme=tokyonight)
+
 
 ---
 
