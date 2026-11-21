@@ -72,7 +72,6 @@ This profile will document my progress, projects, experiments, and everything I 
 ---
 
 ⭐ Thanks for visiting my profile!
-## Hi there 👋
 
 <!--
 **MANIDEEP-RNP/MANIDEEP-RNP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
